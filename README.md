@@ -2,7 +2,7 @@
 
 1. Download Taiko Patch.xdelta, This is a patch file containing the changed code from my decompiled version to the original. 
 2. Get DeltaPatcher from https://github.com/marco-calautti/DeltaPatcher
-3. Note your game's installation directiory, mine is `D:\XboxGames\T Tablet\Content\Taiko no Tatsujin_Data\Managed`, yours might be under `C:/WindowsApps` or `C:/Program files/ModifiableWindowsApps/` and look for `Assembly-CSharp.dll`\
+3. Note your game's installation directiory, yours might be under `C:\Program Files\ModifiableWindowsApps\Taiko no Tatsujin\Taiko no Tatsujin_Data\Managed` and look for `Assembly-CSharp.dll`\
 ![](https://github.com/Fluto/Taiko-no-Tatsujin-The-Drum-Master-Patch/blob/main/1.png)
 
 5. Using Delta Patcher, select the original file as `Assembly-CSharp.dll` and the XDelta Patch from the one you downloaded in Step 1\
