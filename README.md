@@ -1,5 +1,7 @@
 # Taiko-no-Tatsujin-The-Drum-Master-Patch
 
+Note: You may need to enable mods from the Xbox app to obtain permissions to overwrite game files. 
+
 1. Download Taiko Patch.xdelta, This is a patch file containing the changed code from my decompiled version to the original. 
 2. Get DeltaPatcher from https://github.com/marco-calautti/DeltaPatcher
 3. Note your game's installation directiory, yours might be under `C:\Program Files\ModifiableWindowsApps\Taiko no Tatsujin\Taiko no Tatsujin_Data\Managed` and look for `Assembly-CSharp.dll`\
