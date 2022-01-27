@@ -16,6 +16,6 @@ Note: You may need to enable mods from the Xbox app to obtain permissions to ove
 8. Profit? Play the game!
 
 
-The dev team was try to silently sign the player in when playing for the first time. However with GDK for Windows you need to prompt the player for the first time to sign in. Then silently sign in afterwards. 
+The dev team was trying to silently sign the player in when playing for the first time. However with GDK for Windows you need to prompt the player for the first time to sign in. Then silently sign in afterwards. 
 What this patch does is force the titlescreen to ask the player to sign in. 
 Can't post the code here due to IP issues. 
