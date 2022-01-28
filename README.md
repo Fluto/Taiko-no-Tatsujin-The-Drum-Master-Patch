@@ -1,8 +1,9 @@
 # Taiko-no-Tatsujin-The-Drum-Master-Patch
 
-This patch allows for the game to go past the title screen for version 1.1.0.0 on Windows PC. 
+This patch allows for the game to go past the title screen for version 1.1.0.0 on Windows PC.\
+When the next update comes out, this mod will no longer work, additionally you may need to **Verify and Repair** the game to make sure your files are as the developers expect it.
 
-Note: You may need to enable mods from the Xbox app to obtain permissions to overwrite game files. 
+0. **You may need to** ![enable mods](https://support.xbox.com/en-AU/help/games-apps/game-setup-and-play/enable-pc-game-mods) **from the Xbox app to obtain permissions to overwrite game files.**
 
 1. Download Taiko Patch.xdelta, This is a patch file containing the changed code from my decompiled version to the original. 
 2. Get DeltaPatcher from https://github.com/marco-calautti/DeltaPatcher/releases/ (deltapatcher_v2.0.1_win32_bin.zip)
