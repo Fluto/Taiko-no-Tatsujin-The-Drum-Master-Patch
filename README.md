@@ -11,7 +11,7 @@ When the next update comes out, this mod will no longer work, additionally you m
 (My installation directory is different)\
 ![](https://github.com/Fluto/Taiko-no-Tatsujin-The-Drum-Master-Patch/blob/main/1.png)
 
-5. Using Delta Patcher, select the original file as `Assembly-CSharp.dll` and the XDelta Patch from the one you downloaded in Step 1\
+5. Using Delta Patcher (may need to run as admin), select the original file as `Assembly-CSharp.dll` and the XDelta Patch from the one you downloaded in Step 1\
 ![](https://github.com/Fluto/Taiko-no-Tatsujin-The-Drum-Master-Patch/blob/main/2.png)
 
 6. Apply Patch
