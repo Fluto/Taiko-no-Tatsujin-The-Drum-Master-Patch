@@ -1,4 +1,6 @@
-# Taiko-no-Tatsujin-The-Drum-Master-Patch
+# Taiko no Tatsujin: The Drum Master - Login Patch
+
+> Did you install this patch using the older method? There's a chance your game might not work after the next update, so please uninstall and reinstall the game to download the correct files.
 
 This patch allows for the game to go past the title screen for version 1.1.0.0 on Windows PC.
 
